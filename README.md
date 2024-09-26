@@ -4,7 +4,7 @@ This is a small project that demonstrates a simple 3D hover effect using only HT
 
 ## Project Structure
 
-````plaintext
+```bash
 .
 ├── assets/
 │   ├── css/
@@ -13,6 +13,7 @@ This is a small project that demonstrates a simple 3D hover effect using only HT
 │       └── example.jpg  # Image used in the hover effect
 └── index.html           # Main HTML file
 
+```
 ## Features
 
 - **Pure CSS**: No JavaScript is used in this project.
